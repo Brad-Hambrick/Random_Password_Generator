@@ -10,12 +10,12 @@ This project was completed in order to provide users with a means of generating 
 There are no images that require licensing and all the coding methods were those taught in the Vanderbilt Web Development Boot Camp.
 
 ## Visuals
-![Website Images](./assets/media/characters.png)
-![Website Images](./assets/media/uppercase.png)
-![Website Images](./assets/media/lowercase.png)
-![Website Images](./assets/media/numbers.png)
-![Website Images](./assets/media/special_char.png)
-![Website Images](./assets/media/password.png)
+![Website Images](/assets/media/characters.png)
+![Website Images](/assets/media/uppercase.png)
+![Website Images](/assets/media/lowercase.png)
+![Website Images](/assets/media/numbers.png)
+![Website Images](/assets/media/special_char.png)
+![Website Images](/assets/assets/media/password.png)
 
 ## Usage
 This project will be used to create random passwords based upon a selected criteria
