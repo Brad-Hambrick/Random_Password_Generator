@@ -1,7 +1,7 @@
 # Random_Password_Generator
 
 ## Deployed Application
-
+[Random Password Generator](https://brad-hambrick.github.io/Random_Password_Generator/)
 
 ## Description
 This project was completed in order to provide users with a means of generating a random password that meets their own personal preference of criteria.
