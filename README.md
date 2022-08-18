@@ -15,7 +15,7 @@ There are no images that require licensing and all the coding methods were those
 ![Website Images](./Assets/media/lowercase.png)
 ![Website Images](./Assets/media/numbers.png)
 ![Website Images](./Assets/media/special_char.png)
-![Website Images](./Assets/assets/media/password.png)
+![Website Images](./Assets/media/password.png)
 
 ## Usage
 This project will be used to create random passwords based upon a selected criteria
