@@ -1,4 +1,11 @@
 // Assignment code here
+// Grab the Generate Password button and add a event listener of click to initiate user prompts for password criteria
+document.getElementById("#generate");
+document.addEventListener("click", userPrompt);
+
+// Declare a function to collect user input and generate and write the password to the page
+function userPrompt() {
+
 // A prompt to ask the user how many characters in their password
 var pwLength = Number(prompt("How many characters would you like in your password? Choose a number between 8 and 128"));
 // Check the password length to ensure it is between 8 and 128 characters
@@ -50,19 +57,9 @@ function generatePassword() {
   }
   return retVal;
 }
-
-
-// Get references to the #generate element
-var generateBtn = document.querySelector("#generate");
-
 // Write password to the #password input
-function writePassword() {
   var password = generatePw;
   var passwordText = document.querySelector("#password");
 
   passwordText.value = password;
 }
-
-
-// Add event listener to generate button
-generateBtn.addEventListener("click", writePassword);
